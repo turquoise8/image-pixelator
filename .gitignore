@@ -1,0 +1,9 @@
+*.o
+*.out
+*.exe
+*.dSYM/
+*.idx
+.vscode/
+build/
+
+
